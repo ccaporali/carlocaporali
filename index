@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <title>Welcome! - Your Name</title>
+    <!-- Add your meta tags for SEO here -->
+    <link rel="stylesheet" href="assets/css/main.css">
+    <!-- Add your custom head snippets here -->
+</head>
+<body>
+    <div class="masthead">
+        <!-- Add your masthead content here -->
+    </div>
+    <div id="main" role="main">
+        <div class="sidebar sticky">
+            <!-- Add your author information here -->
+        </div>
+        <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+            <header>
+                <h1 class="page__title" itemprop="headline">Welcome!</h1>
+            </header>
+            <section class="page__content" itemprop="text">
+                <!-- Add your academic content here -->
+            </section>
+            <footer class="page__meta"></footer>
+        </article>
+    </div>
+    <div class="page__footer">
+        <footer>
+            <!-- Add your footer content here -->
+        </footer>
+    </div>
+    <script src="assets/js/main.min.js"></script>
+</body>
+</html>
